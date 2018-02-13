@@ -1,0 +1,13 @@
+{
+    "assegnazioni": [
+      {
+        "id": 1,
+        "NumeroSpedizione": "1000001",
+        "CodiceAutista": 2,
+        "operatore": "NV"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
